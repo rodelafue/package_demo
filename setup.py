@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     # Needed to silence warnings
     name='Measurements',
-    url='https://github.com/jladan/package_demo',
+    url='https://github.com/rodelafue/package_demo',
     author='Rodrigo De la Fuente',
     author_email='radelafu@udec.edu',
     # Needed to actually package something
